@@ -1,4 +1,4 @@
-# [ 📘 Class 11 Economics Notes Repository](https://) 💰
+# [ 📘 Class 11 Economics Notes ](https://)
 
 Welcome to the Economics-11 GitHub repository! 🌐 Explore comprehensive notes covering microeconomics and macroeconomics tailored for Class 11 students. 🎓 Dive into the fundamental concepts, market structures, and economic principles that form the backbone of your introductory economics course.
 
