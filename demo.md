@@ -103,26 +103,86 @@ Welcome to the Economics-11 GitHub repository! 🌐 Explore comprehensive notes 
 
 17.   [Differential Calculus: Simple and partial Derivatives (अवकलन: सामान्य र अंश अवकलन)](#differential-calculus-simple-and-partial-derivatives)
 
-## 📚 Key Features:
+# Demand, Supply and Market Equilibrium
+
+-  Demand
+   -  Meaning of Demand
+   -  Difference between Desire and Demand
+   -  Types of Demand
+   -  Determinants of Demand
+   -  Law of Demand
+   -  Demand Fuction
+   -  Movement along a Demand Curve and Shift in Demand Curve
+-  Supply
+   -  Meaning of Supply
+   -  Determinants of Supply
+   -  Law of Supply
+   -  Suly function
+   -  Movement along a Supply Curve and Shift in Supply Curve
+   -  Causes of Shift in Suly Curve
+   -  Interaction between Demand and Supply (Equilibrium Position)
+
+# Theory of Production ( उत्पादन को सिद्धान्त )
+
+-  Concept of Production and Production
+   -  Type of Production Function
+-  Concept of Total Product, Average Product, and Marginal Product
+-  Law of Variable Proportions
+   -  Application of the Law of Variable Proportions
+-  Laws of Returns to Scale
+-  Alternative Method of Explaining Laws of Returns to Scale: Using Isoquant
+-  Law of Returns to Scale
+   -  Summary
+   -  Glossary
+   -  Formulae
+   -  Additional Worked Out Numerical Examples
+   -  Exercise
+
+---
+
+📚 **Key Features:**
 
 -  In-depth coverage of microeconomic and macroeconomic topics.
 -  Clear explanations, real-world examples, and practical applications.
 -  Structured chapters for easy navigation and focused learning.
 -  Valuable resource for exam preparation and reinforcing classroom knowledge.
 
-## 🚀 Get Started:
+🚀 **Get Started:**
 
 1. Browse through the folders to access specific topics.
 2. Click on individual markdown files for detailed chapter notes.
 3. Clone or download the repository to access content offline.
 4. Contribute and collaborate! Feel free to suggest improvements or add your notes.
 
-## 🌟 Contribution Guidelines:
+🌟 **Contribution Guidelines:**
 
 -  Contributions are welcome! Submit pull requests for corrections or additional content.
 -  Help build a supportive learning community by sharing insights and questions.
 -  Follow ethical practices and maintain a positive learning environment.
 
-## 🤝 Join the Economics-11 Community:
-
+🤝 **Join the Economics-11 Community:**
 Connect with fellow Class 11 students, share study tips, and discuss economic concepts. Let's make learning economics an engaging and collaborative experience! 🌐✨
+
+# Introduction
+
+...
+
+# Section 1
+
+## Subsection 1.1
+
+...
+
+## Subsection 1.2
+
+...
+
+# Section 2
+
+## Subsection 2.1
+
+...
+
+## Subsection 2.2
+
+...
