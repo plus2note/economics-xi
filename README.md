@@ -47,6 +47,20 @@ Welcome to the Economics-11 GitHub repository! 🌐 Explore comprehensive notes 
 
 3. [Elasticity of Demand and Supply (माग र पुर्तीको परिमाणको संवेग)](#elasticity-of-demand-and-supply)
 
+   -  [Concept of Elasticity of Demand (मागको परिस्थिति)](#concept-of-elasticity-of-demand)
+   -  [Types of Elasticity of Demand (मागको परिस्थितिहरूको प्रकार)](#types-of-elasticity-of-demand)
+      -  [Price Elasticity of Demand (मूल्य मागको परिस्थिति)](#price-elasticity-of-demand)
+      -  [Income Elasticity of Demand (आय मागको परिस्थिति)](#income-elasticity-of-demand)
+      -  [Cross Elasticity of Demand (क्रस्स मागको परिस्थिति)](#cross-elasticity-of-demand)
+   -  [Determinants of the Price Elasticity of Demand (मूल्य मागको परिस्थितिको निर्धारकहरू)](#determinants-of-the-price-elasticity-of-demand)
+   -  [Elasticity of Supply (प्रावाहको परिस्थिति)](#elasticity-of-supply)
+   -  [Types (Degrees) of Elasticity of Supply (प्रावाहको परिस्थितिहरूको प्रकार)](#types-degrees-of-elasticity-of-supply)
+      -  [Summary (संक्षेप)](#summary)
+      -  [Glossary (शब्दकोष)](#glossary)
+      -  [Formulae (सूत्रहरू)](#formulae)
+      -  [Additional Worked Out Numerical Examples (अतिरिक्त गरेको संख्यात्मक उदाहरणहरू)](#additional-worked-out-numerical-examples)
+      -  [Exercise (अभ्यास)](#exercise)
+
 4. [Consumer's Behavior (उपभोक्ता व्यवहार)](#consumers-behavior)
 
    -  [Concept of Utility and Utility Approaches (उपयोगको अवस्था र उपयोगको दृष्टिकोण)](#concept-of-utility-and-utility-approaches)
@@ -82,7 +96,38 @@ Welcome to the Economics-11 GitHub repository! 🌐 Explore comprehensive notes 
 
 6. [Introduction to Macroeconomics (माक्रोइकनमिक्समा परिचय)](#introduction-to-macroeconomics)
 
+   -  [Concept of Macroeconomics (म्याक्रोइकनमिक्सको अवधारणा)](#concept-of-macroeconomics)
+   -  [Scope of Macroeconomics (म्याक्रोइकनमिक्सको क्षेत्र)](#scope-of-macroeconomics)
+   -  [Macroeconomic Variables (म्याक्रोइकनमिक्सका सांख्यिक चरहरू)](#macroeconomic-variables)
+   -  [Closed and Open Economy (बन्द र खुला अर्थतन्त्र)](#closed-and-open-economy)
+      -  [Summary (संक्षेप)](#summary)
+      -  [Glossary (शब्दकोष)](#glossary)
+      -  [Exercise (अभ्यास)](#exercise)
+
 7. [National Income Accounting (राष्ट्रिय आय लेखा)](#national-income-accounting)
+
+   -  [Meaning and Definition of National Income (राष्ट्रिय आयको अर्थ र परिभाषा)](#meaning-and-definition-of-national-income)
+
+   -  [Various Concepts National Income (राष्ट्रिय आयका विभिन्न अवस्थाहरू)](#various-concepts-national-income)
+      -  [Gross Domestic Product (GDP) (कुल घरेलु उत्पाद)](#gross-domestic-product-gdp)
+      -  [Gross National Product (कुल राष्ट्रिय उत्पाद)](#gross-national-product)
+      -  [Net National Product (NNP) (नेट राष्ट्रिय उत्पाद)](#net-national-product-nnp)
+      -  [National Income (NI) (राष्ट्रिय आय)](#national-income-ni)
+      -  [Personal Income (PI) (व्यक्तिगत आय)](#personal-income-pi)
+      -  [Disposable Income (DI) (प्रयोग गर्न सकिने आय)](#disposable-income-di)
+      -  [Per Capita Income (PCI) (प्रति व्यक्ति आय)](#per-capita-income-pci)
+      -  [The Relationship between Various Concepts of National Income (राष्ट्रिय आयका विभिन्न अवस्थाहरू बीचको सम्बन्ध)](#the-relationship-between-various-concepts-of-national-income)
+   -  [Nominal GDP, Real GDP and GDP Deflator (नोमिनल जि.डि.पि, वास्तविक जि.डि.पि र जि.डि.पि डिफ्लेटर)](#nominal-gdp-real-gdp-and-gdp-deflator)
+   -  [Measurement of National Income (राष्ट्रिय आयको मापन)](#measurement-of-national-income)
+      -  [Product Method (उत्पाद विधि)](#product-method)
+      -  [Income Method (आय विधि)](#income-method)
+      -  [Expenditure Method (खर्च विधि)](#expenditure-method)
+      -  [Difficulties in Measurement of National Income in the Context of Nepal (नेपालको संदर्भमा राष्ट्रिय आयको मापनमा गरेको कठिनाइहरू)](#difficulties-in-measurement-of-national-income-in-the-context-of-nepal)
+         -  [Summary (संक्षेप)](#summary)
+         -  [Glossary (शब्दकोष)](#glossary)
+         -  [Formulae (सूत्रहरू)](#formulae)
+         -  [Additional Worked Out Numerical Examples (अतिरिक्त गरेको संख्यात्मक उदाहरणहरू)](#additional-worked-out-numerical-examples)
+         -  [Exercise (अभ्यास)](#exercise)
 
 8. [Money and Inflation (धन र मुद्रा)](#money-and-inflation)
 
