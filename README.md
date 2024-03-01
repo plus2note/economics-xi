@@ -2,11 +2,25 @@
 
 Welcome to the Economics-11 GitHub repository! 🌐 Explore comprehensive notes covering microeconomics and macroeconomics tailored for Class 11 students. 🎓 Dive into the fundamental concepts, market structures, and economic principles that form the backbone of your introductory economics course.
 
-<img src="./images/cover.jpg" alt="Class 11 Economics Notes, Cover image" />
-
 ## Introduction
 
 This repository aims to be a centralized hub for Class 11 students to access high-quality economics notes. Whether you are preparing for exams, reviewing concepts, or seeking additional resources, you'll find valuable content here.
+
+<img src="./images/cover.jpg" alt="Class 11 Economics Notes, Cover image" />
+
+# Introduction to Economics
+
+**Welcome to the World of Economics!**
+
+Economics is a fascinating field of study that delves into the intricate web of human decision-making, resource allocation, and the functioning of societies. As Class 11 students embarking on your academic journey in economics, this subject will open doors to understanding the complexities of how individuals, businesses, and governments make choices to satisfy their unlimited wants and needs.
+
+अर्थशास्त्र अध्ययनको एक आकर्षक क्षेत्र हो जुन मानव निर्णय लिने, संसाधन विनियोजन, र समाजको कार्यप्रणालीको जटिल वेबमा समाहित हुन्छ। कक्षा 11 का विद्यार्थीहरूले अर्थशास्त्रमा तपाईंको शैक्षिक यात्रा सुरु गर्ने क्रममा, यस विषयले व्यक्ति, व्यवसाय र सरकारहरूले आफ्ना असीमित आवश्यकताहरू र आवश्यकताहरू पूरा गर्न छनौटहरू कसरी गर्ने भन्ने जटिलताहरू बुझ्नको लागि ढोका खोल्नेछ।
+
+## What is Economics?
+
+At its core, economics is the social science that explores how individuals and societies manage their resources in the face of scarcity. The fundamental challenge lies in reconciling unlimited wants with limited resources. This scarcity necessitates choices, and the study of economics provides the tools to analyze and understand these choices.
+
+यसको मूलमा, अर्थशास्त्र भनेको सामाजिक विज्ञान हो जसले व्यक्ति र समाजले कसरी अभावको सामना गर्दा आफ्ना स्रोतहरू व्यवस्थापन गर्छ भनेर अन्वेषण गर्दछ। आधारभूत चुनौती सीमित स्रोतहरूसँग असीमित आवश्यकताहरू मिलाउनमा छ। यो अभावले छनोटहरू आवश्यक छ, र अर्थशास्त्रको अध्ययनले यी विकल्पहरूको विश्लेषण र बुझ्नको लागि उपकरणहरू प्रदान गर्दछ।
 
 ## Chapters
 
