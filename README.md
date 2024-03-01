@@ -2,13 +2,14 @@
 
 Welcome to the Economics-11 GitHub repository! 🌐 Explore comprehensive notes covering microeconomics and macroeconomics tailored for Class 11 students. 🎓 Dive into the fundamental concepts, market structures, and economic principles that form the backbone of your introductory economics course.
 
+<!--
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Chapters](#chapters)
 3. [How to Contribute](#how-to-contribute)
 4. [License](#license)
-5. [Contact](#contact)
+5. [Contact](#contact) -->
 
 ## Introduction
 
